@@ -30,15 +30,27 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 </div>
-Hi there!
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+<div id = "body">
+  <div align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWExdmRqOTJuNTl3dmIzM2E3NTFoZmlzbHQycHBkeDltbHo4amFwaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif" width="400" height="auto"/>
+  </div>
+
+  ---
+
+  ### :woman_technologist: About Me :
+  I am a Second Year Game Design and Development Student at RIT <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXVwb2l6eGVvdTQ3a3gybjZkdjNhcWFsYzN5OHprc3ltcnB1dmdyeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/JqJaJ1Pw06PKOtGPnl/giphy.gif" width="30"> in Rochester NY.
+
+- :telescope: I’m currently working on several personal game projects as well as class assignments 😫
+
+- :seedling: I'm currently learning C++, Lua, and React
+
+- 😄 Pronouns: She/They
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Emma-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/emmaduprey/)
+
+</div>
+
 
 
 ## #30NitesOfCode:
