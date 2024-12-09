@@ -49,6 +49,17 @@ Here are some ideas to get you started:
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Emma-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/emmaduprey/)
 
+
+---
+
+### :hammer_and_wrench: Languages and Tools :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="CSharp" **alt="C Sharp" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="cplusplus" **alt="Cplusplus" width="40" height="40"/>
 </div>
 
 
@@ -56,3 +67,5 @@ Here are some ideas to get you started:
 ## #30NitesOfCode:
   [Check out my progress!](https://www.codedex.io/@emmad9/30-nites-of-code)  
   ![@emmad9 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=emmad9)
+  
+</div>
