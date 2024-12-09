@@ -15,7 +15,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/ko--fi-donate-%23FF5E5B?style=flat-square&logo=ko-fi&logoColor=white"/>
   </a>
 
-  <a href = "[https://ko-fi.com/emmaduprey](https://emma.iduprey.com/)" target = "_blank">
+  <a href = "https://emma.iduprey.com/" target = "_blank">
   <img src="https://img.shields.io/badge/Portfolio-blue?style=for-the-badge&&logoColor=white"/>
   </a>
 
