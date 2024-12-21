@@ -1,3 +1,14 @@
+--tutorial from challacade for starting game structure
+
+
+function love.load()
+    number = 0
+end
+
+function love.update(dt)
+    number = number + 1
+end
+
 function love.draw()
-    love.graphics.print("Hello World", 400, 300)
+    love.graphics.print(number)
 end
