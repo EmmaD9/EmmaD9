@@ -9,6 +9,10 @@ function love.load()
 
     candyCane = love.graphics.newImage("assets/images/candyCane.png")
 
+    --details for 2d physics
+    love.physics.setMeter(64) --the height of a meter our worlds will be 64px
+  	world = love.physics.newWorld(0, 9.81*64, true) --create a world for the bodies to exist in with horizontal gravity of 0 and vertical gravity of 9.81
+
 
     --global variable target is a circle
     target = {}
@@ -30,7 +34,7 @@ end
 function love.draw()
 	
 	love.graphics.draw(santa, 0, 0, 0.15, 0.15)
-	love.graphics.draw(candyCane, 0, 0, 0.15, 0.15)
+	love.graphics.draw(candyCane, 0, 0, 0, 0.015, 0.015)	--draws the candy cane in the far right upper corner
 
 
     love.graphics.setColor(1, 0, 0)
