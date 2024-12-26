@@ -1,11 +1,29 @@
--- ABANDONED Main lua file for Santa Slay game
+-- Main lua file for Santa Slay game
 
 local santa
 local canyCane
 
 
 function love.load()
-    santa = love.graphics.newImage("assets/images/santa.png")
+    --PHYSICS INFORMATION
+      -- the height of a meter our worlds will be 64px
+  love.physics.setMeter(64)
+  -- create a world for the bodies to exist in with horizontal gravity
+  -- of 0 and vertical gravity of 9.81
+  world = love.physics.newWorld(0, 9.81*64, true)
+
+  objects = {} -- table to hold all our physical objects
+
+  -- santa as a physics object
+  objects.santa = {}
+  -- place the body in the center of the world and make it dynamic, so
+  -- it can move around
+  objects.santa.body = love.physics.newBody(world, 650/2, 650/2, "dynamic")
+  objects.ball.shape = love.graphics.newImage("assets/images/santa.png")
+  -- Attach fixture to body and give it a density of 1.
+  objects.santa.fixture = love.physics.newFixture(objects.ball.body,
+                                                 objects.ball.shape, 1)
+  objects.santa.fixture:setRestitution(0.9) -- let the ball bounce
 
     candyCane = love.graphics.newImage("assets/images/candyCane.png")
 
