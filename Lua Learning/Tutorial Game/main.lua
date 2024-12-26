@@ -1,4 +1,5 @@
 --tutorial from challacade for starting game structure
+--link: https://www.youtube.com/watch?v=wttKHL90Ank
 
 function love.load()
 
@@ -31,6 +32,10 @@ end
 function love.mousepressed(x, y, button, istouch, presses)
     if button == 1 and distanceBetween(x, y, target.x, target.y) <= target.radius then
         score = score + 1
+
+        --add in randomness
+        target.x = math.random(target.radius, love.graphics.getWidth() - target.radius)
+        target.y = math.random(target.radius, love.graphics.getHeight() - target.radius)
     end
 
     --or could do a nested if statement and create a local variable called mouseToTarget
