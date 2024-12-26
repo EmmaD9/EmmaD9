@@ -1,4 +1,4 @@
--- Main lua file for Santa Slay game
+-- ABANDONED Main lua file for Santa Slay game
 
 local santa
 local canyCane
