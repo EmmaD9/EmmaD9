@@ -41,7 +41,7 @@ end
 
 function love.draw()
     -- Draw the capybara
-    love.graphics.draw(capy, capyX, capyY, 0, 0.15, 0.15)
+    love.graphics.draw(capy, capyX, capyY, 0)
 
     -- Draw the score
     love.graphics.setColor(1, 1, 1)
