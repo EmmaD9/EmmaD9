@@ -1,6 +1,15 @@
 function playSound(){
-    const sound = new Audio('Media/cymbals.mp3');
+    const sound = new Audio('media/cymbals.mp3');
+    //Sound effect by freesound_community from Pixabay
     sound.play();
 }
 
-Document.getElementById("sound-btn").addEventListener("click", playSound);
+function changeColor(){
+    const colorButton = document.getElementById("color-btn");
+    
+    colorButton.style.background = '#0027ff';
+}
+
+document.getElementById("sound-btn").addEventListener("click", playSound);
+
+document.getElementById("color-btn").addEventListener("click", changeColor);
