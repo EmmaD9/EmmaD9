@@ -1,8 +1,9 @@
 const sound = new Audio('media/cymbals.mp3');
-//freesound_community from pixabay
 
 let tallyCount = document.getElementById("tally");
+
 let tally = 0;
+
 
 function playSound(){
     console.log("A sound is playing!");
@@ -12,22 +13,17 @@ function playSound(){
 
 function addTally(){
     tally++;
-
-    console.log("the tally: " + tally);
-
+    console.log("The tally: " + tally);
     tallyCount.innerHTML = tally;
-    console.log("the tallyCount inner html: " + tallyCount.innerHtml);
 }
 
 function addNum(){
     let aNum = parseInt(document.getElementById("aNum").value);
-    console.log("the first num is " + aNum);
-
+    console.log("The first num is " + aNum);
     let bNum = parseInt(document.getElementById("bNum").value);
-    console.log("the second num is " + bNum);
+    console.log("The second num is " + bNum);
 
     let addedNum = aNum + bNum;
-
     document.getElementById("addedNum").innerHTML = addedNum;
 }
 

@@ -1,3 +1,4 @@
+//SOLUTION
 
 //this variable is a constant
 const sound = new Audio('media/cymbals.mp3');
