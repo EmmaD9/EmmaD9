@@ -65,7 +65,7 @@ Here are some ideas to get you started:
 ### Stats:
 [![Emma's GitHub stats](https://github-readme-stats.vercel.app/api?username=emmad9&show_icons=true&theme=radical)](https://github.com/emmad9/github-readme-stats)
 
-![Emma's Leetcode Stats](https://leetcode-badge-sage.vercel.app/badge/{emmad9}?theme={dark})
+![Emma's Leetcode Stats](https://leetcode-badge-sage.vercel.app/badge/emmad9?theme=dark)
 
 
 </div>
