@@ -36,7 +36,7 @@ Here are some ideas to get you started:
   ---
 
   ### :woman_technologist: About Me :
-  I am a Second Year Game Design and Development Student at RIT <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXVwb2l6eGVvdTQ3a3gybjZkdjNhcWFsYzN5OHprc3ltcnB1dmdyeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/JqJaJ1Pw06PKOtGPnl/giphy.gif" width="30"> in Rochester NY.
+  I am a Third Year dual major in Computer Science & Game Design and Development Student at RIT <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXVwb2l6eGVvdTQ3a3gybjZkdjNhcWFsYzN5OHprc3ltcnB1dmdyeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/JqJaJ1Pw06PKOtGPnl/giphy.gif" width="30"> in Rochester NY.
 
 - :telescope: I’m currently working on several personal game projects as well as class assignments 😫
 
