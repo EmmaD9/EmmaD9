@@ -11,9 +11,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 
-  <a href = "https://ko-fi.com/emmaduprey" target = "_blank">
-  <img src="https://img.shields.io/badge/ko--fi-donate-%23FF5E5B?style=flat-square&logo=ko-fi&logoColor=white"/>
-  </a>
 
   <a href = "https://emma.iduprey.com/" target = "_blank">
   <img src="https://img.shields.io/badge/Portfolio-blue?style=for-the-badge&&logoColor=white"/>
